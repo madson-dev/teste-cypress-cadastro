@@ -1,0 +1,43 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Usuario",
+    "children" : [ {
+      "name" : "Deve Acessar a Página de Formulário",
+      "uid" : "cae03bd177375e27",
+      "parentUid" : "ec2d91c8116393d7053f16c5373c0770",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653322801017,
+        "stop" : 1653322808304,
+        "duration" : 7287
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Deve Criar um Novo Cadastro",
+      "uid" : "854d030acc62731b",
+      "parentUid" : "ec2d91c8116393d7053f16c5373c0770",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653322808342,
+        "stop" : 1653322813198,
+        "duration" : 4856
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "ec2d91c8116393d7053f16c5373c0770"
+  } ]
+}

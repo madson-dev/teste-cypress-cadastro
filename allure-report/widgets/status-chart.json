@@ -1,0 +1,21 @@
+[ {
+  "uid" : "cae03bd177375e27",
+  "name" : "Deve Acessar a Página de Formulário",
+  "time" : {
+    "start" : 1653322801017,
+    "stop" : 1653322808304,
+    "duration" : 7287
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "854d030acc62731b",
+  "name" : "Deve Criar um Novo Cadastro",
+  "time" : {
+    "start" : 1653322808342,
+    "stop" : 1653322813198,
+    "duration" : 4856
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

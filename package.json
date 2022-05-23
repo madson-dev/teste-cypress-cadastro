@@ -1,0 +1,21 @@
+{
+  "name": "Cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cy:run": "cypress run --config video=false --env allure=true",
+    "allure:generate": "allure generate allure-results",
+    "allure:open": "allure open allure-report",
+    "allure:clear": "rm -r allure-results/ allure-report || true", 
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@shelex/cypress-allure-plugin": "^2.26.5",
+    "cypress": "^9.6.1",
+    "cypress-xpath": "^1.6.2"
+  }
+}
